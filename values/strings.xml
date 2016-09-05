@@ -2,14 +2,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <string name="app_name">aPager PRO</string>
-    <string name="help">Hilfe</string>
-    <string name="exit">Beenden</string>
-    <string name="close">Schließen</string>
-    <string name="settings">Einstellungen</string>
+    <string name="help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="close">Close</string>
+    <string name="settings">Settings</string>
     <string name="no_history">Keine Alarmierungen vorhanden</string>
-    <string name="menu_delete_history">Verlauf löschen</string>
-    <string name="menu_delete_old_history">Verlauf älter 14 Tage löschen</string>
-    <string name="settings_category_notification">Benachrichtigungs-Einstellungen</string>
+    <string name="menu_delete_history">Delete History</string>
+    <string name="menu_delete_old_history">Delete History older than 14 days</string>
+    <string name="settings_category_notification">Notification-Settings</string>
     <string name="notification_sound">Benachrichtigungston</string>
     <string name="notification_sound_summary">Ton, welcher bei einem Alarm abgespielt wird.</string>
     <string name="text_registration">Diese App ist der Android Client der Alarmierungs-Software firEmergency (http://alamos-ug.de).\n\nUm diese App nutzen zu können müssen Sie einen Google Account besitzen.\nBitte wählen Sie den Account, welcher mit dieser App verknüpft werden soll.\n\nHinweis: Die angezeigte Adresse muss als Empfänger in das firEmergency Adressbuch eingetragen werden, um Alarmierungen empfangen zu können!</string>
