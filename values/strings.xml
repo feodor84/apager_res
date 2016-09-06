@@ -20,7 +20,7 @@
     <string name="ok">OK</string>
     <string name="settings_category_infos">Information</string>
     <string name="settings_category_feedback">Feedback &amp; Availability FE1</string>
-    <string name="settings_category_feedback_summary">Rückmeldung zum Einsatz und Abgabe Verfügbarkeitsstatus</string>
+    <string name="settings_category_feedback_summary">Feedback for Alert and Sending Avaliability Status</string>
     <string name="settings_info_version_title">Version</string>
     <string name="confirm_alert">Confirm</string>
     <string name="alert_popup_new_alert">Incoming Alert</string>
