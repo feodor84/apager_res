@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    
+<resources xmlns:tools="http://schemas.android.com/tools">    
     <string name="app_name">aPager PRO</string>
     <string name="help">Help</string>
     <string name="exit">Exit</string>
@@ -61,15 +60,6 @@
     <string name="settings_override_silence_summary">Ignore sound settings of the phone. Only affects default profile. Important: You must choose a volume value.</string>
     <string name="recent_changes">Last Changes</string>
     <string name="recent_changes_show_again">Show Again on Start</string>
-    <string name="pref_key_silent">pref_key_silent</string>
-    <string name="pref_key_global_silent">pref_key_global_silent</string>
-    <string name="pref_key_override_silent">pref_key_override_silent</string>
-    <string name="pref_key_ringtone">pref_key_ringtone</string>
-    <string name="pref_key_volume">pref_key_volume</string>
-    <string name="pref_key_vibration">pref_key_vibration_new</string>
-    <string name="pref_key_secure_confirm">pref_key_secure_confirm</string>
-    <string name="pref_key_timeout">pref_key_timeout</string>
-    <string name="pref_key_advertisment" tools:ignore="Typos">pref_key_advertisment</string>
     <string name="alarm_received">Alert received!</string>
     <string name="alarm_missed_for_group">Missed Alert for Unit %s</string>
     <string name="alarm_for_group">Alert for Unit %s</string>
@@ -103,7 +93,6 @@
     <string name="choose_ringtone_short">...</string>
     <string name="no_rightone_chosen">No Selection</string>
     <string name="no_group_items">No Unit Assignment available</string>
-    <string name="pref_key_reregister">pref_key_reregister</string>
     <string name="reregister">Reregister</string>
     <string name="widget_text">aPager</string>
     <string name="is">is: </string>
@@ -120,9 +109,6 @@
     <string name="pref_CameraLight">Camera Light</string>
     <string name="pref_CameraLight_summary">Turn on for Alert</string>
     <string name="pref_category_experimental_summary">Settings that won't work on all devices</string>
-    <string name="pref_key_cameraLight">pref_key_cameraLight</string>
-    <string name="pref_key_feedback">pref_key_feedback</string>
-    <string name="pref_key_feedback_about">pref_key_feedback_about</string>
     <string name="pref_key_feedback_about_title">what is this?</string>
     <string name="pref_key_feedback_about_description">Explanation for Feedback Function (Webseite)</string>
     <string name="dialog_cancel">Cancel</string>
@@ -145,7 +131,6 @@
     <string name="settings_category_troubleshooting_title_error_report">Send Error Report</string>
     <string name="error_report">Error Report</string>
     <string name="error_report_dialog_err_description">Error Description\n[min. 75 Chars]</string>
-    <string name="pref_key_led">pref_key_led</string>
     <string name="pref_key_led_title">Activate LED at Alert</string>
     <string name="pref_key_led_summary">Light LED red. Not supported on all devices</string>
     <string name="settings_category_profiles_screen_off_settings_title">Disable aPager</string>
@@ -167,20 +152,15 @@
     <string name="pref_category_dev_settings">Development</string>
     <string name="pref_key_encryption_title">Enable Encryption</string>
     <string name="pref_key_encryption_summary">Please read the Wiki for setting up encryption</string>
-    <string name="pref_key_encryption">pref_key_encryption</string>
-    <string name="pref_key_encryption_password_dialog">pref_key_encryption_password_dialog</string>
     <string name="pref_key_encryption_password_title">Enter Encryption Phrase</string>
     <string name="pref_key_encryption_password_summary">Longer Phrase has better security (16+ Chars recommended)</string>
     <string name="set_timeout_heading">Set Timeout</string>
     <string name="settings_category_notification_pref_second_alarm_delay_title">Alert Delay</string>
     <string name="settings_category_notification_pref_second_alarm_delay_summary">Delay between two or more alert, if they arrive at the same time (has to be lower than alert timeout)</string>
-    <string name="pref_key_alarm_delay">pref_key_alarm_delay</string>
     <string name="copy_to_clipboard">Copy to Clipboard</string>
     <string name="copied_to_clipboard">Text Copied to Clipboard</string>
     <string name="from_apager_ad">\n### Copied from aPager http://goo.gl/8pA46 ###</string>
     <string name="button_start_google_navigation">Start Navigation</string>
-    <string name="pref_key_direct_navigation_button">pref_key_direct_navigation_button</string>
-    <string name="pref_key_block_duplicates">pref_key_block_duplicates</string>
     <string name="settings_category_notification_pref_block_duplicates_title">Block duplicate alerts</string>
     <string name="settings_category_notification_pref_block_duplicates_summary">Block alerts with same text if they arrive within 3 minutes. Allows to use SMS / Push simultaneous</string>
     <string name="notification_blocked_duplicate_title">Duplicate alert blocked</string>
@@ -208,12 +188,10 @@
     <string name="back_button_not_allowed">Not Allowed</string>
     <string name="pref_key_home_key_behavior_title">Home Button during Alert</string>
     <string name="pref_key_home_key_behavior_summary">Home Button behavior during Alert. Recommendation: Close alarm with provided button, not with Home Button</string>
-    <string name="pref_key_home_key_behavior">pref_key_home_key_behavior</string>
     <string name="pref_key_home_key_behavior_usage_warning">Settings won't work on all devices. If problems occur, use first option (default) first</string>
     <string name="popup_address_info_title">Address Information</string>
     <string name="pref_key_loop_sound_title">Loop Sound</string>
     <string name="pref_key_loop_sound_summary">Play Once or loop until Timeout/Confirmation </string>
-    <string name="pref_key_loop_sound">pref_key_loop_sound</string>
     <string name="additional_alarms_received">Further Incoming Alerts!</string>
     <string name="additional_alarms_received_warning">Further alerts received, check Overview!</string>
     <string name="title_activity_switch_off">SwitchOffActivity</string>
@@ -256,12 +234,9 @@
     <string name="activity_profile_edit_volume_label">Volume</string>
     <string name="pref_category_tts">Text-To-Speech</string>
     <string name="pref_key_tts_on_title">Text-To-Speech</string>
-    <string name="pref_key_user_email">pref_key_user_email</string>
     <string name="pref_key_tts_on_summary">Read Subject out Loud. Can be set in Alert Text Plugin. For assistance navigate to http://apager.alamos-ug.de</string>
-    <string name="pref_key_tts_on">pref_key_tts_on</string>
     <string name="group_list_header_groups">Units</string>
     <string name="group_list_header_state">State</string>
-    <string name="pref_key_encryption_password_scan">pref_key_encryption_password_scan</string>
     <string name="pref_key_encryption_password_scan_summary">from QR Code</string>
     <string name="pref_key_encryption_password_scan_title">Scan Passphrase</string>
     <string name="no_password_scanned">No Passphrase Scanned or Error</string>
@@ -277,12 +252,10 @@
     <string name="button_partly">Partly</string>
 
     <!--billing activity -->
-
     <string name="title_activity_billing">License Information</string>
     <string name="currentBillingStatus">Current License State</string>
-
     <!--billing activity end -->
-
+	
     <string name="title_activity_availibility">Availability</string>
     <string name="acitivity_availibility_button_not_available">Not Available</string>
     <string name="acitivity_availibility_button_available">Available</string>
@@ -408,17 +381,13 @@
     <string name="error_report_submit">Send </string>
     <string name="error_report_error_writing_log_formatted">Error Writing Log File %s</string>
     <string name="error_report_error_writing_log">Error Writing Log File</string>
-    <string name="error_report_error_writing_zipfile">Error Writing ZIP File</string>
-    
+    <string name="error_report_error_writing_zipfile">Error Writing ZIP File</string>    
     <string name="feedback_successful">Feedback not successful!</string>
-    <string name="feedback_not_successful">Feedback successfully delivered!</string>
-    
+    <string name="feedback_not_successful">Feedback successfully delivered!</string>    
     <string name="german_time_suffix"> o'clock</string>
-    <string name="toast_website_refreshed">Website refreshed</string>
-    
+    <string name="toast_website_refreshed">Website refreshed</string>    
     <string name="alarm_with_error_description_text">An Alert was received but couldn't be processed. Please Contact A Comrade.</string>
-    <string name="intent_chooser_ringtone">App For Ringtone Selection:</string>
-    
+    <string name="intent_chooser_ringtone">App For Ringtone Selection:</string>    
     <string name="snackbar_group_disabled_formatted">Unit %s disabled</string>
     <string name="group_disabled_undo">Undo</string>
     <string name="map_place_of_event">Operating Place</string>
@@ -446,5 +415,4 @@
     <string name="widget_toast_apager_now_silent_overrides_profiles">aPager Completely Silent (Skips Profiles!)</string>
     <string name="widget_toast_apager_mode_normal_obeys_profiles">aPager Mode Normal - Considers Profiles</string>
     <string name="widget_toast_apager_off_no_alarms_will_be_received">aPager Off! Alerts Not Being received anymore!</string>
-
 </resources>
