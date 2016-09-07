@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
-    
+<resources xmlns:tools="http://schemas.android.com/tools">    
     <string name="app_name">aPager PRO</string>
     <string name="help">Hilfe</string>
     <string name="exit">Beenden</string>
@@ -61,15 +60,6 @@
     <string name="settings_override_silence_summary">Stummschaltung des Telefons übergehen. Betrifft nur das Standardprofil. Wichtig: Es muss unter Lautstärke ein konkreter Wert ausgewählt werden.</string>
     <string name="recent_changes">Letzte Änderungen</string>
     <string name="recent_changes_show_again">beim Start wieder anzeigen</string>
-    <string name="pref_key_silent">pref_key_silent</string>
-    <string name="pref_key_global_silent">pref_key_global_silent</string>
-    <string name="pref_key_override_silent">pref_key_override_silent</string>
-    <string name="pref_key_ringtone">pref_key_ringtone</string>
-    <string name="pref_key_volume">pref_key_volume</string>
-    <string name="pref_key_vibration">pref_key_vibration_new</string>
-    <string name="pref_key_secure_confirm">pref_key_secure_confirm</string>
-    <string name="pref_key_timeout">pref_key_timeout</string>
-    <string name="pref_key_advertisment" tools:ignore="Typos">pref_key_advertisment</string>
     <string name="alarm_received">Alarm empfangen!</string>
     <string name="alarm_missed_for_group">Alarm für Einheit %s verpasst</string>
     <string name="alarm_for_group">Alarm für Einheit %s</string>
@@ -103,7 +93,6 @@
     <string name="choose_ringtone_short">...</string>
     <string name="no_rightone_chosen">Keine Auswahl getroffen</string>
     <string name="no_group_items">Keine Einheitenzuweisungen vorhanden</string>
-    <string name="pref_key_reregister">pref_key_reregister</string>
     <string name="reregister">Erneut registrieren</string>
     <string name="widget_text">aPager</string>
     <string name="is">ist: </string>
@@ -120,9 +109,6 @@
     <string name="pref_CameraLight">Kameraleuchte</string>
     <string name="pref_CameraLight_summary">bei Alarm leuchten</string>
     <string name="pref_category_experimental_summary">Einstellungen die evtl. nicht auf allen Geräten funktionieren</string>
-    <string name="pref_key_cameraLight">pref_key_cameraLight</string>
-    <string name="pref_key_feedback">pref_key_feedback</string>
-    <string name="pref_key_feedback_about">pref_key_feedback_about</string>
     <string name="pref_key_feedback_about_title">Was ist das?</string>
     <string name="pref_key_feedback_about_description">Erklärung der Rückmeldefunktion (Webseite)</string>
     <string name="dialog_cancel">Abbrechen</string>
@@ -145,7 +131,6 @@
     <string name="settings_category_troubleshooting_title_error_report">Fehlerbericht senden</string>
     <string name="error_report">Fehlerbericht</string>
     <string name="error_report_dialog_err_description">Fehlerbeschreibung\n[mind. 75 Zeichen]</string>
-    <string name="pref_key_led">pref_key_led</string>
     <string name="pref_key_led_title">LED bei Alarm</string>
     <string name="pref_key_led_summary">LED rot leuchten lassen. Nicht auf allen Geräten</string>
     <string name="settings_category_profiles_screen_off_settings_title">aPager ausschalten</string>
@@ -167,20 +152,15 @@
     <string name="pref_category_dev_settings">Entwicklung</string>
     <string name="pref_key_encryption_title">Verschlüsselung aktivieren</string>
     <string name="pref_key_encryption_summary">Bitte Anleitung im Wiki zur Verschlüsselung lesen</string>
-    <string name="pref_key_encryption">pref_key_encryption</string>
-    <string name="pref_key_encryption_password_dialog">pref_key_encryption_password_dialog</string>
     <string name="pref_key_encryption_password_title">Passwort eingeben</string>
     <string name="pref_key_encryption_password_summary">Sicherheit steigt mit Länge (16+ Zeichen empfohlen)</string>
     <string name="set_timeout_heading">Timeout einstellen</string>
     <string name="settings_category_notification_pref_second_alarm_delay_title">Alarm-Verzögerung</string>
     <string name="settings_category_notification_pref_second_alarm_delay_summary">Verzögerungszeit für zweiten Alarm bei gleichzeitigem Eintreffen von zwei oder mehr Alarmen (muss &lt; Alarm-Timeout sein)</string>
-    <string name="pref_key_alarm_delay">pref_key_alarm_delay</string>
     <string name="copy_to_clipboard">In Zwischenablage kopieren</string>
     <string name="copied_to_clipboard">Alarmtext in Zwischenablage kopiert!</string>
     <string name="from_apager_ad">\n### kopiert aus aPager http://goo.gl/8pA46 ###</string>
     <string name="button_start_google_navigation">Navigation sofort starten</string>
-    <string name="pref_key_direct_navigation_button">pref_key_direct_navigation_button</string>
-    <string name="pref_key_block_duplicates">pref_key_block_duplicates</string>
     <string name="settings_category_notification_pref_block_duplicates_title">Doppelte Nachrichten blockieren</string>
     <string name="settings_category_notification_pref_block_duplicates_summary">Nachrichten mit gleichem Nachrichtentext blockieren, die innerhalb von 3 Minuten eingehen. Ermöglicht SMS / Push parallel zu betreiben</string>
     <string name="notification_blocked_duplicate_title">Doppelte Nachricht blockiert</string>
@@ -208,12 +188,10 @@
     <string name="back_button_not_allowed">nicht erlaubt</string>
     <string name="pref_key_home_key_behavior_title">Home-Taste während Alarm</string>
     <string name="pref_key_home_key_behavior_summary">Verhalten für Home-Taste bei eingehendem Alarm festlegen. Empfehlung: Alarm nicht über Home-Taste beenden, sondern über dafür vorgesehene Schaltfläche</string>
-    <string name="pref_key_home_key_behavior">pref_key_home_key_behavior</string>
     <string name="pref_key_home_key_behavior_usage_warning">Einstellung funktioniert nicht auf allen Geräten. Bei Problemen bitte erste Option (Standard) einstellen</string>
     <string name="popup_address_info_title">Adressinformationen</string>
     <string name="pref_key_loop_sound_title">Ton wiederholen</string>
     <string name="pref_key_loop_sound_summary">Einmal spielen oder bis zum Timeout / Bestätigung wiederholen</string>
-    <string name="pref_key_loop_sound">pref_key_loop_sound</string>
     <string name="additional_alarms_received">Weitere Alarme empfangen!</string>
     <string name="additional_alarms_received_warning">Weitere Alarme empfangen, Übersicht prüfen!</string>
     <string name="title_activity_switch_off">SwitchOffActivity</string>
@@ -256,12 +234,9 @@
     <string name="activity_profile_edit_volume_label">Lautstärke</string>
     <string name="pref_category_tts">Sprachausgabe und -eingabe</string>
     <string name="pref_key_tts_on_title">Sprachausgabe</string>
-    <string name="pref_key_user_email">pref_key_user_email</string>
     <string name="pref_key_tts_on_summary">Betreff laut vorlesen. Über Alarmtext-Plugin setzbar. Bei Problemen bitte Hinweise unter apager.alamos-ug.de beachten</string>
-    <string name="pref_key_tts_on">pref_key_tts_on</string>
     <string name="group_list_header_groups">Einheiten</string>
     <string name="group_list_header_state">Zustand</string>
-    <string name="pref_key_encryption_password_scan">pref_key_encryption_password_scan</string>
     <string name="pref_key_encryption_password_scan_summary">aus QR Code</string>
     <string name="pref_key_encryption_password_scan_title">Passwort scannen</string>
     <string name="no_password_scanned">Kein Passwort gescannt oder Fehler</string>
@@ -277,10 +252,8 @@
     <string name="button_partly">Bedingt</string>
 
     <!--billing activity -->
-
     <string name="title_activity_billing">Lizenzinformationen</string>
     <string name="currentBillingStatus">Ihr aktueller Lizenzstatus</string>
-
     <!--billing activity end -->
 
     <string name="title_activity_availibility">Verfügbarkeit</string>
@@ -442,5 +415,4 @@
     <string name="widget_toast_apager_now_silent_overrides_profiles">aPager nun global STUMM (übergeht Profile!)</string>
     <string name="widget_toast_apager_mode_normal_obeys_profiles">aPager Modus normal - beachtet Profile</string>
     <string name="widget_toast_apager_off_no_alarms_will_be_received">aPager aus! Empfängt keine Alarme mehr!</string>
-
 </resources>
