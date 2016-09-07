@@ -350,9 +350,9 @@
     <string name="registration_activity_hint_user_must_select_fe_version">Please choose the correct firEmergency version. Touch \'Info\' for Help</string>
     <string name="HelpActivity_ToastWithURL">Open this URL on PC: http://apager.alamos-ug.de</string>
     <string name="personid_activity_title">Person-ID</string>
-    <string name="no_person_id_scanned">Es wurde keine Personen-ID gescannt oder es trat ein Fehler auf</string>
-    <string name="errortext_personid_invalid">Die gescannte Personen-ID ist nicht gültig. Bitte wenden Sie sich an Ihren Administrator um eine gültige ID zu erhalten!</string>
-    <string name="person_id_successfully_imported">Personen-ID erfolgreich importiert</string>
+    <string name="no_person_id_scanned">No person ID scanned or error occured</string>
+    <string name="errortext_personid_invalid">Scanned person ID ist not valid. Please contact your administrator to get a valid ID!</string>
+    <string name="person_id_successfully_imported">Person ID successfully imported</string>
     <string name="billing_activity_additional_license_hint">Bitte beachten Sie:\n\nDer Erwerb einer Lizenz beim Betrieb mit FE2 ist nicht nötig. (Ausnahme FE2 im Modus \'Client-Lizenzierung\')\n\nWenden Sie sich bitte im Zweifelsfall an Ihren Administrator.</string>
     <string name="billing_activity_additional_license_hint_for_button">Bitte benutzen Sie den unten stehenden Button zum Erwerb einer Jahreslizenz.</string>
     <string name="product_type_fe1">firEmergency 1.x</string>
