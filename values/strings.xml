@@ -319,7 +319,7 @@
     <string name="startAlarmList">Open Alert List</string>
     <string name="pref_key_feedback_fe2_person_id_summary">Please contact your administrator</string>
     <string name="pref_key_feedback_fe2_person_id_title">Person ID</string>
-    <string name="registration_activity_long_explanation">Bitte wählen Sie hier die passende firEmergency Version aus:\n\n- FE1: Wenn Ihre Organisation FE1 nutzt. Sie tragen die Lizenzkosten per In-App-Kauf.\n\n- FE2: Ihre Organisation nutzt FE2. Die App kann von Ihnen kostenfrei genutzt werden.\n\n- FE2 Client Modus: Ihre Organisation nutzt FE2 mit Client-Lizenzen (Starter-Paket), bei der Sie als Nutzer die Lizenzkosten übernehmen.\n\nBitte fragen Sie Ihren Administrator, wenn Sie unsicher sind. Der Modus kann auch später gewechselt werden.</string>
+    <string name="registration_activity_long_explanation">Please choose the matching firEmergency version here:\n\n- FE1: If your organization uses FE1. You pay for the license via In App Paying\n\n- FE2: Your organization uses FE2. You can use this app without any costs.\n\n- FE2 Client Mode: Your organization uses FE2 with client licenses (Starter Package), where you pay for the license via In App Paying.\n\nPlease contact your administrator when in doubt. The mode can be switched later at any time.</string>
     <string name="registration_activity_hint_user_must_select_fe_version">Please choose the correct firEmergency version. Touch \'Info\' for Help</string>
     <string name="HelpActivity_ToastWithURL">Open this URL on PC: http://apager.alamos-ug.de</string>
     <string name="personid_activity_title">Person-ID</string>
