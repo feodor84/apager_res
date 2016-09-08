@@ -1,4 +1,4 @@
-# Repository for translations of the Android App aPager
+# Repository for translations of the Android App aPager Pro
 
 Now >YOU< can help to provide a new language for the app!
 
