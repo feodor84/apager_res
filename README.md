@@ -10,7 +10,7 @@ Please make your changes and pull requests to the "review"-Branch.
 ### Translation Progress
 
 In Product | Translated | In Progress | New
-----------|-------------|-------------|
+----------|-------------|-------------|-----
 German | | | French
  | English | | Italian
  | | | Spanish
