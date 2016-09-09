@@ -9,8 +9,8 @@ Please make your changes and pull requests to the "review"-Branch.
 
 ### Translation Progress
 
-Completed | In Progress | New
+In Product | Translated | In Progress | New
 ----------|-------------|-----
-German | | French
-English | | Italian
- | | Spanish
+German | | | French
+ | English | | Italian
+ | | | Spanish
