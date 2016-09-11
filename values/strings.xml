@@ -264,7 +264,7 @@
     <string name="pref_key_feedback_about_title">what is this?</string>
     <string name="pref_key_feedback_fe2_person_id_summary">Please contact your administrator</string>
     <string name="pref_key_feedback_fe2_person_id_title">Person ID</string>
-    <string name="pref_key_home_key_behavior_summary">Home Button behavior during Alert. Recommendation: Close alarm with provided button, not with Home Button</string>
+    <string name="pref_key_home_key_behavior_summary">Home Button behavior during alert. Recommendation: Close alert with provided button, not with Home Button</string>
     <string name="pref_key_home_key_behavior_title">Home Button during Alert</string>
     <string name="pref_key_home_key_behavior_usage_warning">Settings won\'t work on all devices. If problems occur, use first option (default) first</string>
     <string name="pref_key_infoalarm_vibration_summary">Toggle vibration for Info Alerts. Heads-Up-Notification only with enabled vibration.</string>
@@ -273,7 +273,7 @@
     <string name="pref_key_led_title">Activate LED at Alert</string>
     <string name="pref_key_loop_sound_summary">Play Once or loop until Timeout/Confirmation </string>
     <string name="pref_key_loop_sound_title">Loop Sound</string>
-    <string name="pref_key_tts_on_summary">Read Subject out Loud. Can be set in Alert Text Plugin. For assistance navigate to http://apager.alamos-ug.de</string>
+    <string name="pref_key_tts_on_summary">Read Subject out Loud. Can be set in Alert Text Plugin. For assistance navigate to\nhttp://apager.alamos-ug.de</string>
     <string name="pref_key_tts_on_title">Text-To-Speech</string>
     <string name="pref_key_use_availibility_perm_notification_summary">Show ongoing notification so you can see your availability status. Android 4.1+ recommended.</string>
     <string name="pref_key_vibration_summary">Set vibration pattern. Custom pattern only with activated WEAR-Support!</string>
@@ -324,9 +324,9 @@
     <string name="settings_category_feedback_summary">Feedback for Alert and Sending Availability Status</string>
     <string name="settings_category_infos">Information</string>
     <string name="settings_category_notification">Notification Settings</string>
-    <string name="settings_category_notification_pref_block_duplicates_summary">Block alerts with same text if they arrive within 3 minutes. Allows to use SMS / Push simultaneous</string>
+    <string name="settings_category_notification_pref_block_duplicates_summary">Block alerts with same text if they arrive within 3 minutes. Allows to use SMS / Push simultaneously</string>
     <string name="settings_category_notification_pref_block_duplicates_title">Block duplicate alerts</string>
-    <string name="settings_category_notification_pref_second_alarm_delay_summary">Delay between two or more alert, if they arrive at the same time (has to be lower than alert timeout)</string>
+    <string name="settings_category_notification_pref_second_alarm_delay_summary">Delay between two or more alerts, if they arrive at the same time (has to be lower than alert timeout)</string>
     <string name="settings_category_notification_pref_second_alarm_delay_title">Alert Delay</string>
     <string name="settings_category_profiles_screen_off_settings_setting">settings_category_profiles_screen_off_settings_setting</string>
     <string name="settings_category_profiles_screen_off_settings_setting_summary">Warning: aPager will not receive and save alerts to history!</string>
@@ -338,7 +338,7 @@
     <string name="settings_dev_settings_screen_apply_settings">Apply Settings</string>
     <string name="settings_dev_settings_screen_pref_appengine_version">AppEng Version Code</string>
     <string name="settings_dev_settings_screen_pref_dev_on">Dev Settings active</string>
-    <string name="settings_dev_settings_screen_summary">Only for Developers of after instructions from us</string>
+    <string name="settings_dev_settings_screen_summary">Use only if you are a developer or after our support told you to</string>
     <string name="settings_dev_settings_screen_title">Developer Settings</string>
     <string name="settings_email_accounts">Choose Account</string>
     <string name="settings_email_accounts_summary">Email Account for Cloud To Device Messaging</string>
