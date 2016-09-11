@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="timeout_entries">
+        <item>Kein Timeout</item>
+        <item>2 Sekunden</item>
+        <item>3 Sekunden</item>
+        <item>4 Sekunden</item>
+        <item>5 Sekunden</item>
+        <item>6 Sekunden</item>
+        <item>7 Sekunden</item>
+        <item>8 Sekunden</item>
+        <item>9 Sekunden</item>
+        <item>10 Sekunden</item>
+        <item>15 Sekunden</item>
+        <item>30 Sekunden</item>
+        <item>1 Minute</item>
+        <item>2 Minuten</item>
+        <item>5 Minuten</item>
+    </string-array>
+    <string-array name="timeout_values">
+        <item>-1</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+    </string-array>
+    <string-array name="volume_entries">
+        <item>Telephone</item>
+        <item>10%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>maximum</item>
+    </string-array>
+    <string-array name="volume_values">
+        <item>-1</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="search_type_entries">
+        <item>@string/is</item>
+        <item>@string/contains</item>
+    </string-array>
+    <string-array name="vibration_entries">
+        <item>@string/off</item>
+        <item>@string/vibrationShort</item>
+        <item>@string/vibrationMedium</item>
+        <item>@string/vibrationLong</item>
+    </string-array>
+    <string-array name="vibration_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="home_key_behavior_entries">
+        <item>@string/continue_ringing_until_timeout</item>
+        <item>@string/stop_ringing_immediately</item>
+        <item>@string/continue_ringing_for_5_seconds</item>
+        <item>@string/continue_ringing_for_10_seconds</item>
+    </string-array>
+    <string-array name="home_key_behavior_values">
+        <item>60</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="feedback_interval_entries">
+        <item>30 Sekunden</item>
+        <item>45 Sekunden</item>
+        <item>60 Sekunden</item>
+        <item>90 Sekunden</item>
+    </string-array>
+    <string-array name="feedback_interval_values">
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="navigation_apps_entries">
+        <item>Systemstandard</item>
+        <item>Sygic</item>
+        <item>Navigon</item>
+    </string-array>
+    <string-array name="navigation_apps_values">
+        <item>system</item>
+        <item>sygic</item>
+        <item>navigon</item>
+    </string-array>
+    <string-array name="action_map_modes_list">
+        <item>Normal</item>
+        <item>Satellit</item>
+        <item>Hybrid</item>
+        <item>Terrain</item>
+    </string-array>
+    <string-array name="spinner_group_entries">
+        <item>ist</item>
+        <item>enthält</item>
+    </string-array>
+    <string-array name="spinner_date_entries">
+        <item>vor (&lt;)</item>
+        <item>nach (&gt;=)</item>
+    </string-array>
+    <string-array name="volume_entries_profile_edit">
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="vibration_entries_profile_edit">
+        <item>@string/off</item>
+        <item>@string/vibrationShort</item>
+        <item>@string/vibrationMedium</item>
+        <item>@string/vibrationLong</item>
+    </string-array>
+
+</resources>
