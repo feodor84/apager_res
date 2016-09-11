@@ -183,7 +183,7 @@
     <string name="group_list_header_state">State</string>
     <string name="group_name">Name %1$s %2$s</string>
     <string name="group_show_title">Unit Settings</string>
-    <string name="group_w_linebreaks_for_notification">\n\\nGroup: </string>
+    <string name="group_w_linebreaks_for_notification">\n\nGroup: </string>
     <string name="groups_edit_explanation_contains">Unit name must contain text (Case insensitive!)</string>
     <string name="groups_edit_explanation_is">Unit name must match exactly (Case sensitive!)</string>
     <string name="groups_edit_filter_mode_title">Filter Mode</string>
