@@ -34,7 +34,7 @@
     <string name="activity_profile_edit_optical_header">Visual*</string>
     <string name="activity_profile_edit_optical_hint">*Not supported on all devices</string>
     <string name="activity_profile_edit_optical_led">LED</string>
-    <string name="activity_profile_edit_use_tts">Text-To-Speech</string>
+    <string name="activity_profile_edit_use_tts">Text To Speech</string>
     <string name="activity_profile_edit_vibration_header">Vibration</string>
     <string name="activity_profile_edit_volume_header">Ringtone Mode &amp; Volume</string>
     <string name="activity_profile_edit_volume_label">Volume</string>
@@ -52,7 +52,7 @@
     <string name="alarm_for_group">Alert for Unit %s</string>
     <string name="alarm_missed_for_group">Missed Alert for Unit %s</string>
     <string name="alarm_received">Alert received!</string>
-    <string name="alarm_timeout">Alert-Timeout</string>
+    <string name="alarm_timeout">Alert Timeout</string>
     <string name="alarm_timeout_summary">Disable an alert after a certain amount of time.</string>
     <string name="alarm_with_error_description_text">An Alert was received but couldn\'t be processed. Please Contact A Comrade.</string>
     <string name="alarmlist_display_formated_today">\'Today, \'HH:mm:ss</string>
@@ -414,4 +414,5 @@
     <string name="stop_ringing_immediately">Stop ringing immediately</string>
     <string name="continue_ringing_for_5_seconds">Continue ringing for 5 seconds</string>
     <string name="continue_ringing_for_10_seconds">Continue ringing for 10 seconds</string>
+    <string name="pref_key_volume_title">Volume</string>
 </resources>
