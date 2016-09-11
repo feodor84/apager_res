@@ -23,7 +23,7 @@
     <string name="action_show_feedback_overview">Feedback Overview</string>
     <string name="action_show_profiles">Show Profiles</string>
     <string name="action_start_navigation">Start Navigation</string>
-    <string name="action_toggle_group_list_lock_state">Change Lock State</string>
+    <string name="action_toggle_group_list_lock_state">Change Lock Status</string>
     <string name="activated">enabled</string>
     <string name="active">Active</string>
     <string name="activity_blocked_alarms_explanation">Block Reason Highlighted Red</string>
@@ -104,7 +104,7 @@
     <string name="context_menu_fb_custom_text_delete_entry">Delete Entry</string>
     <string name="copied_to_clipboard">Text Copied to Clipboard</string>
     <string name="copy_to_clipboard">Copy to Clipboard</string>
-    <string name="currentBillingStatus">Current License State</string>
+    <string name="currentBillingStatus">Current License Status</string>
     <string name="days">Day(s)</string>
     <string name="deactivated">disabled</string>
     <string name="debug_settings">Test</string>
@@ -180,7 +180,7 @@
     <string name="group_edit_title">Configuration</string>
     <string name="group_is">Unit</string>
     <string name="group_list_header_groups">Units</string>
-    <string name="group_list_header_state">State</string>
+    <string name="group_list_header_state">Status</string>
     <string name="group_name">Name %1$s %2$s</string>
     <string name="group_show_title">Unit Settings</string>
     <string name="group_w_linebreaks_for_notification">\n\nGroup: </string>
