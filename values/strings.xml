@@ -41,7 +41,7 @@
     <string name="activity_profile_edit_volume_override">Always Play Sound</string>
     <string name="activity_profile_edit_volume_repeat_tone">Repeat Sound</string>
     <string name="activity_profile_edit_volume_silent">Silent</string>
-    <string name="activity_profile_edit_volume_telephone_checkbox">use Phone Settings</string>
+    <string name="activity_profile_edit_volume_telephone_checkbox">Use Phone Settings</string>
     <string name="additional_alarms_received">Further Incoming Alerts!</string>
     <string name="additional_alarms_received_warning">Further alerts received, check Overview!</string>
     <string name="address_calculation_running">Address calculation running...</string>
@@ -406,7 +406,7 @@
     <string name="widget_toast_apager_mode_normal_obeys_profiles">aPager Mode Normal - Considers Profiles</string>
     <string name="widget_toast_apager_now_silent_overrides_profiles">aPager Completely Silent (Skips Profiles!)</string>
     <string name="widget_toast_apager_off_no_alarms_will_be_received">aPager Off! Alerts Not Being received anymore!</string>
-    <string name="off">off</string>
+    <string name="off">Off</string>
     <string name="vibrationShort">Short</string>
     <string name="vibrationMedium">Medium</string>
     <string name="vibrationLong">Long</string>
