@@ -23,7 +23,7 @@
     <string name="action_show_feedback_overview">Feedback Overview</string>
     <string name="action_show_profiles">Show Profiles</string>
     <string name="action_start_navigation">Start Navigation</string>
-    <string name="action_toggle_group_list_lock_state">Change Lock State</string>
+    <string name="action_toggle_group_list_lock_state">Change Lock Status</string>
     <string name="activated">enabled</string>
     <string name="active">Active</string>
     <string name="activity_blocked_alarms_explanation">Block Reason Highlighted Red</string>
@@ -34,14 +34,14 @@
     <string name="activity_profile_edit_optical_header">Visual*</string>
     <string name="activity_profile_edit_optical_hint">*Not supported on all devices</string>
     <string name="activity_profile_edit_optical_led">LED</string>
-    <string name="activity_profile_edit_use_tts">Text-To-Speech</string>
+    <string name="activity_profile_edit_use_tts">Text To Speech</string>
     <string name="activity_profile_edit_vibration_header">Vibration</string>
     <string name="activity_profile_edit_volume_header">Ringtone Mode &amp; Volume</string>
     <string name="activity_profile_edit_volume_label">Volume</string>
     <string name="activity_profile_edit_volume_override">Always Play Sound</string>
     <string name="activity_profile_edit_volume_repeat_tone">Repeat Sound</string>
     <string name="activity_profile_edit_volume_silent">Silent</string>
-    <string name="activity_profile_edit_volume_telephone_checkbox">use Phone Settings</string>
+    <string name="activity_profile_edit_volume_telephone_checkbox">Use Phone Settings</string>
     <string name="additional_alarms_received">Further Incoming Alerts!</string>
     <string name="additional_alarms_received_warning">Further alerts received, check Overview!</string>
     <string name="address_calculation_running">Address calculation running...</string>
@@ -52,7 +52,7 @@
     <string name="alarm_for_group">Alert for Unit %s</string>
     <string name="alarm_missed_for_group">Missed Alert for Unit %s</string>
     <string name="alarm_received">Alert received!</string>
-    <string name="alarm_timeout">Alert-Timeout</string>
+    <string name="alarm_timeout">Alert Timeout</string>
     <string name="alarm_timeout_summary">Disable an alert after a certain amount of time.</string>
     <string name="alarm_with_error_description_text">An Alert was received but couldn\'t be processed. Please Contact A Comrade.</string>
     <string name="alarmlist_display_formated_today">\'Today, \'HH:mm:ss</string>
@@ -104,7 +104,7 @@
     <string name="context_menu_fb_custom_text_delete_entry">Delete Entry</string>
     <string name="copied_to_clipboard">Text Copied to Clipboard</string>
     <string name="copy_to_clipboard">Copy to Clipboard</string>
-    <string name="currentBillingStatus">Current License State</string>
+    <string name="currentBillingStatus">Current License Status</string>
     <string name="days">Day(s)</string>
     <string name="deactivated">disabled</string>
     <string name="debug_settings">Test</string>
@@ -180,10 +180,10 @@
     <string name="group_edit_title">Configuration</string>
     <string name="group_is">Unit</string>
     <string name="group_list_header_groups">Units</string>
-    <string name="group_list_header_state">State</string>
+    <string name="group_list_header_state">Status</string>
     <string name="group_name">Name %1$s %2$s</string>
     <string name="group_show_title">Unit Settings</string>
-    <string name="group_w_linebreaks_for_notification">\n\\nGroup: </string>
+    <string name="group_w_linebreaks_for_notification">\n\nGroup: </string>
     <string name="groups_edit_explanation_contains">Unit name must contain text (Case insensitive!)</string>
     <string name="groups_edit_explanation_is">Unit name must match exactly (Case sensitive!)</string>
     <string name="groups_edit_filter_mode_title">Filter Mode</string>
@@ -264,7 +264,7 @@
     <string name="pref_key_feedback_about_title">what is this?</string>
     <string name="pref_key_feedback_fe2_person_id_summary">Please contact your administrator</string>
     <string name="pref_key_feedback_fe2_person_id_title">Person ID</string>
-    <string name="pref_key_home_key_behavior_summary">Home Button behavior during Alert. Recommendation: Close alarm with provided button, not with Home Button</string>
+    <string name="pref_key_home_key_behavior_summary">Home Button behavior during alert. Recommendation: Close alert with provided button, not with Home Button</string>
     <string name="pref_key_home_key_behavior_title">Home Button during Alert</string>
     <string name="pref_key_home_key_behavior_usage_warning">Settings won\'t work on all devices. If problems occur, use first option (default) first</string>
     <string name="pref_key_infoalarm_vibration_summary">Toggle vibration for Info Alerts. Heads-Up-Notification only with enabled vibration.</string>
@@ -273,7 +273,7 @@
     <string name="pref_key_led_title">Activate LED at Alert</string>
     <string name="pref_key_loop_sound_summary">Play Once or loop until Timeout/Confirmation </string>
     <string name="pref_key_loop_sound_title">Loop Sound</string>
-    <string name="pref_key_tts_on_summary">Read Subject out Loud. Can be set in Alert Text Plugin. For assistance navigate to http://apager.alamos-ug.de</string>
+    <string name="pref_key_tts_on_summary">Read Subject out Loud. Can be set in Alert Text Plugin. For assistance navigate to\nhttp://apager.alamos-ug.de</string>
     <string name="pref_key_tts_on_title">Text-To-Speech</string>
     <string name="pref_key_use_availibility_perm_notification_summary">Show ongoing notification so you can see your availability status. Android 4.1+ recommended.</string>
     <string name="pref_key_vibration_summary">Set vibration pattern. Custom pattern only with activated WEAR-Support!</string>
@@ -324,9 +324,9 @@
     <string name="settings_category_feedback_summary">Feedback for Alert and Sending Availability Status</string>
     <string name="settings_category_infos">Information</string>
     <string name="settings_category_notification">Notification Settings</string>
-    <string name="settings_category_notification_pref_block_duplicates_summary">Block alerts with same text if they arrive within 3 minutes. Allows to use SMS / Push simultaneous</string>
+    <string name="settings_category_notification_pref_block_duplicates_summary">Block alerts with same text if they arrive within 3 minutes. Allows to use SMS / Push simultaneously</string>
     <string name="settings_category_notification_pref_block_duplicates_title">Block duplicate alerts</string>
-    <string name="settings_category_notification_pref_second_alarm_delay_summary">Delay between two or more alert, if they arrive at the same time (has to be lower than alert timeout)</string>
+    <string name="settings_category_notification_pref_second_alarm_delay_summary">Delay between two or more alerts, if they arrive at the same time (has to be lower than alert timeout)</string>
     <string name="settings_category_notification_pref_second_alarm_delay_title">Alert Delay</string>
     <string name="settings_category_profiles_screen_off_settings_setting">settings_category_profiles_screen_off_settings_setting</string>
     <string name="settings_category_profiles_screen_off_settings_setting_summary">Warning: aPager will not receive and save alerts to history!</string>
@@ -338,7 +338,7 @@
     <string name="settings_dev_settings_screen_apply_settings">Apply Settings</string>
     <string name="settings_dev_settings_screen_pref_appengine_version">AppEng Version Code</string>
     <string name="settings_dev_settings_screen_pref_dev_on">Dev Settings active</string>
-    <string name="settings_dev_settings_screen_summary">Only for Developers of after instructions from us</string>
+    <string name="settings_dev_settings_screen_summary">Use only if you are a developer or after our support told you to</string>
     <string name="settings_dev_settings_screen_title">Developer Settings</string>
     <string name="settings_email_accounts">Choose Account</string>
     <string name="settings_email_accounts_summary">Email Account for Cloud To Device Messaging</string>
@@ -406,7 +406,7 @@
     <string name="widget_toast_apager_mode_normal_obeys_profiles">aPager Mode Normal - Considers Profiles</string>
     <string name="widget_toast_apager_now_silent_overrides_profiles">aPager Completely Silent (Skips Profiles!)</string>
     <string name="widget_toast_apager_off_no_alarms_will_be_received">aPager Off! Alerts Not Being received anymore!</string>
-    <string name="off">off</string>
+    <string name="off">Off</string>
     <string name="vibrationShort">Short</string>
     <string name="vibrationMedium">Medium</string>
     <string name="vibrationLong">Long</string>
@@ -414,4 +414,5 @@
     <string name="stop_ringing_immediately">Stop ringing immediately</string>
     <string name="continue_ringing_for_5_seconds">Continue ringing for 5 seconds</string>
     <string name="continue_ringing_for_10_seconds">Continue ringing for 10 seconds</string>
+    <string name="pref_key_volume_title">Volume</string>
 </resources>
