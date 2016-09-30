@@ -415,4 +415,10 @@
     <string name="continue_ringing_for_5_seconds">Continue ringing for 5 seconds</string>
     <string name="continue_ringing_for_10_seconds">Continue ringing for 10 seconds</string>
     <string name="pref_key_volume_title">Volume</string>
+    <string name="pref_key_vibration_dialogtitle">Choose pattern</string>
+    <string name="pref_screen_encryption_summary">Settings for securely transmitting the alert data</string>
+    <string name="pref_category_encryption">Encryption</string>
+    <string name="pref_category_feedback_and_availability"><![CDATA[Feedback & Availability General]]></string>
+    <string name="pref_screen_feedback_and_availability_summary"><![CDATA[General Settings for FE1 & FE2]]></string>
+    <string name="pref_screen_feedback_and_availability_title">Settings</string>
 </resources>

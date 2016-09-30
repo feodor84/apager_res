@@ -416,4 +416,10 @@
     <string name="vibrationMedium">Medium</string>
     <string name="vibrationShort">Kurz</string>
     <string name="pref_key_volume_title">Lautstärke</string>
+    <string name="pref_key_vibration_dialogtitle">Muster wählen</string>
+    <string name="pref_category_encryption">Verschlüsselung</string>
+    <string name="pref_category_feedback_and_availability"><![CDATA[Rückmeldung & Verfügbarkeit allgemein]]></string>
+    <string name="pref_screen_encryption_summary">Einstellungen zur sicheren Übertragung des Alarmtexts</string>
+    <string name="pref_screen_feedback_and_availability_summary"><![CDATA[Übergreifende Einstellungen, die für FE1 & FE2 gelten]]></string>
+    <string name="pref_screen_feedback_and_availability_title">Einstellungen</string>
 </resources>
